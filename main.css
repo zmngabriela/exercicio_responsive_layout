@@ -81,7 +81,7 @@ section h2 {
 
 #about .container {
     justify-content: center;
-    gap: 40px;
+    gap: 30px;
 }
 
 #about .container p,
@@ -236,7 +236,7 @@ footer .container > div ul {
     }
 
     .product-list li {
-        margin: 60px 0;
+        margin-bottom: 20%;
     }
     
     .legal {
